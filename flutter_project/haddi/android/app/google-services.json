@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530258917020",
+    "firebase_url": "https://haddikabaddi-76c51-default-rtdb.firebaseio.com",
+    "project_id": "haddikabaddi-76c51",
+    "storage_bucket": "haddikabaddi-76c51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530258917020:android:be26786048cb60fe391f59",
+        "android_client_info": {
+          "package_name": "com.example.haddi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530258917020-ualsgdpdt5j4rf3ksl3jt9vouq98f6gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuN2wq1KKaOJD6SwJvAk7f1LXF1YOBP5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530258917020-ualsgdpdt5j4rf3ksl3jt9vouq98f6gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
